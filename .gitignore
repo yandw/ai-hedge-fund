@@ -70,3 +70,8 @@ outputs/
 app/backend/alembic/versions/__pycache__/
 .v2_cache/
 
+
+# Understand Anything plugin scratch dirs
+.ua/.trash-*/
+# Scan/intermediate cache files (regenerated)
+# .ua/intermediate/ kept (only scan-result.json); rest excluded
